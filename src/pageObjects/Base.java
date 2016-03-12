@@ -7,7 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
-// changing to git fdfdfd
+// changing to git fdfdfd change from github
 public class Base {
 	public static WebDriver driver;
 	static WebElement element;
